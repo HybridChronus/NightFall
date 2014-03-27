@@ -1,0 +1,10 @@
+12.17.2013 (Sam)
+
+- Able to sprint backwards and side-to-side. We'll most likely want to limit sprinting to a forward direction. Do we want a stamnia system?
+
+- If you press the crouch button (C) while moving you immediately come to a stop. You only crouch when you let go of the directional key you are holding down, then you can move again. We will need to be able to crouch while moving (and potentially "crouch-sprint" while moving from and to cover).
+
+- Head-turning functionality feels very fluid, but it might be redundant. It's easy enough to turn you head and move via strafing, and the angle your head turns at feels a little weird if you want to walk in a straight line. Instead, 'Leaning', might give us the situational awareness we're looking for. Q and E keys feel good for actions regardless, it's very non-intrusive.
+
+- It might be a personal preference, but I think we should slow down the current walk and run speeds. I like that you can jump while sprinting and travel further through the air, but it feels kind of like a twitch FPS at the moment. Let's plan to go over this at our next meeting.
+
