@@ -1,0 +1,1 @@
+.udk files go under "UDKGame\Content\Levels\Nightfall".
