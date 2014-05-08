@@ -1,0 +1,1 @@
+.upk files go under "UDKGame\Content\Environments\Nightfall".
